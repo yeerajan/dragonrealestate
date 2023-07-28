@@ -1,0 +1,10 @@
+Problem 1:
+creating csv file. 
+housing = pd.read_csv("data.csv") was unicodedecodeerror.
+
+count : counts non-null values
+mean: mean values
+std: standard deviation, at how much distance your values is from mean
+25% : 25% values are less than given(in column)
+50% : 50% values are less than given(in column)
+75% : similarly
